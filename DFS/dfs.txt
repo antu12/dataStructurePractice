@@ -1,0 +1,30 @@
+20 24
+Arad
+Bucharest
+2
+Farara Urziccini
+Rimnieu Pitesti
+Arad Zerind
+Zerind Odarea
+Odarea Sibiu
+Arad Sibiu
+Arad Timisoara
+Timisoara Lugoj
+Lugoj Mehadia
+Mehadia Dobreta
+Dobreta Craiova
+Sibiu Farara
+Sibiu Rimnieu
+Farara Urziccini
+Urziccini Hirsova
+Urziccini Bucharest
+Rimnieu Pitesti
+Rimnieu Craiova
+Craiova Bucharest
+Bucharest Giurgiu
+Hirsova Eforie
+Hirsova Vaslui
+Vaslui Isai
+Isai Neamt
+Pitesti Bucharest
+Pitesti Craiova
